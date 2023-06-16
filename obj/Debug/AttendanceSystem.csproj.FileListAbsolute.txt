@@ -10,3 +10,15 @@ C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube 
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.exe
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Form2.resources
+D:\TUBES_KPL_GUI\AttendanceSystem\bin\Debug\AttendanceSystem.exe.config
+D:\TUBES_KPL_GUI\AttendanceSystem\bin\Debug\AttendanceSystem.exe
+D:\TUBES_KPL_GUI\AttendanceSystem\bin\Debug\AttendanceSystem.pdb
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.SuggestedBindingRedirects.cache
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Form1.resources
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Form2.resources
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Properties.Resources.resources
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.GenerateResource.cache
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.exe
+D:\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.pdb

@@ -30,7 +30,7 @@
         {
             this.textBoxPassword = new System.Windows.Forms.TextBox();
             this.textBoxEmail = new System.Windows.Forms.TextBox();
-            this.SignInButton_Click = new System.Windows.Forms.Button();
+            this.LoginButton_Click = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -52,16 +52,16 @@
             this.textBoxEmail.TabIndex = 15;
             this.textBoxEmail.TextChanged += new System.EventHandler(this.textBoxEmail_TextChanged);
             // 
-            // SignInButton_Click
+            // LoginButton_Click
             // 
-            this.SignInButton_Click.Font = new System.Drawing.Font("Microsoft YaHei", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SignInButton_Click.Location = new System.Drawing.Point(335, 267);
-            this.SignInButton_Click.Name = "SignInButton_Click";
-            this.SignInButton_Click.Size = new System.Drawing.Size(127, 40);
-            this.SignInButton_Click.TabIndex = 14;
-            this.SignInButton_Click.Text = "Login";
-            this.SignInButton_Click.UseVisualStyleBackColor = true;
-            this.SignInButton_Click.Click += new System.EventHandler(this.SignInButton_Click_Click);
+            this.LoginButton_Click.Font = new System.Drawing.Font("Microsoft YaHei", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LoginButton_Click.Location = new System.Drawing.Point(335, 267);
+            this.LoginButton_Click.Name = "LoginButton_Click";
+            this.LoginButton_Click.Size = new System.Drawing.Size(127, 40);
+            this.LoginButton_Click.TabIndex = 14;
+            this.LoginButton_Click.Text = "Login";
+            this.LoginButton_Click.UseVisualStyleBackColor = true;
+            this.LoginButton_Click.Click += new System.EventHandler(this.SignInButton_Click_Click);
             // 
             // label4
             // 
@@ -104,7 +104,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBoxPassword);
             this.Controls.Add(this.textBoxEmail);
-            this.Controls.Add(this.SignInButton_Click);
+            this.Controls.Add(this.LoginButton_Click);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Name = "Login";
@@ -118,7 +118,7 @@
 
         private System.Windows.Forms.TextBox textBoxPassword;
         private System.Windows.Forms.TextBox textBoxEmail;
-        private System.Windows.Forms.Button SignInButton_Click;
+        private System.Windows.Forms.Button LoginButton_Click;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;

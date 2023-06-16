@@ -57,7 +57,7 @@ namespace Login_Registrasi
 
         }
 
-        private void SignInButton_Click_Click(object sender, EventArgs e)
+        private void LoginButton_Click_Click(object sender, EventArgs e)
         {
             string email = textBoxEmail.Text;
             string password = textBoxPassword.Text;

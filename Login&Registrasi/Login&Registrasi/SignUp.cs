@@ -25,17 +25,17 @@ namespace Login_Registrasi
 
         private void SignInButton_Click_Click(object sender, EventArgs e)
         {
-            string email = textBoxEmail.Text;
-            string password = textBoxPassword.Text;
+            string Email = textBoxEmail.Text;
+            string Password = textBoxPassword.Text;
             
             Login login1 = new Login();
 
-            bool isValidUser = CheckValidUser(email,password);
+            bool isValidUser = CheckValidUser(Email,Password);
 
             if (isValidUser)
             {
                 MessageBox.Show("Sign Up successful!");
-                Login login = new Login(email,password);
+                Login login = new Login(Email,Password);
                 login.Show();
                 this.Hide();
             }
@@ -45,11 +45,11 @@ namespace Login_Registrasi
             }
         }
 
-        private bool CheckValidUser(string email, string password)
+        private bool CheckValidUser(string Email, string Password)
         {
             for (int i = 0; i < staticEmail.Length; i++)
             {
-                if (email == staticEmail[i] && password == staticPassword[i])
+                if (Email == staticEmail[i] && Password == staticPassword[i])
                 {
                     return true;
                 }

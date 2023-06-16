@@ -1,0 +1,12 @@
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\bin\Debug\AttendanceSystem.exe.config
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\bin\Debug\AttendanceSystem.exe
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\bin\Debug\AttendanceSystem.pdb
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Form1.resources
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Properties.Resources.resources
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.GenerateResource.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.exe
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Form2.resources

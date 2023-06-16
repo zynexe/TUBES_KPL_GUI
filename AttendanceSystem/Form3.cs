@@ -78,7 +78,7 @@ namespace AttendanceSystem
                 string attendanceStatusMsg = systemNotifikasi.GetAttendanceStatus(isPresent);
 
                 // Menampilkan notifikasi pada label2
-                label2.Text = $"Mahasiswa {studentId}: Anda {attendanceStatusMsg} dari kelas hari ini.";
+                label2.Text = $"Notifikasi Terkitrim : Mahasiswa {studentId} {attendanceStatusMsg} dari kelas hari ini.";
             }
             else
             {
@@ -94,6 +94,13 @@ namespace AttendanceSystem
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
         }
     }
 }

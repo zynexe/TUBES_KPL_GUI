@@ -1,0 +1,12 @@
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\bin\Debug\Login&Registrasi.exe.config
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\bin\Debug\Login&Registrasi.exe
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\bin\Debug\Login&Registrasi.pdb
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login&Registrasi.csproj.AssemblyReference.cache
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login&Registrasi.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login_Registrasi.Properties.Resources.resources
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login&Registrasi.csproj.GenerateResource.cache
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login&Registrasi.csproj.CoreCompileInputs.cache
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login&Registrasi.exe
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login&Registrasi.pdb
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login_Registrasi.SignUp.resources
+D:\KULIAH 4\KPL\Tubes\TUBES_KPL_GUI\Login&Registrasi\Login&Registrasi\obj\Debug\Login_Registrasi.Login.resources

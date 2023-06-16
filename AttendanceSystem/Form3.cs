@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -51,8 +52,46 @@ namespace AttendanceSystem
                     Console.WriteLine("Notifikasi Absen {0}: Anda {1} dari kelas hari ini.", studentId, attendanceStatusMsg);
                 }
             }
+
+            internal string GetAttendanceStatus(bool isPresent)
+            {
+                return attendanceStatus[isPresent];
+            }
         }
         private void button1_Click(object sender, EventArgs e)
+        {
+            SystemNotifikasi systemNotifikasi = new SystemNotifikasi();
+
+            // Simulasi data kehadiran mahasiswa
+            systemNotifikasi.MarkAttendance("M001", true);
+            systemNotifikasi.MarkAttendance("M002", false);
+            systemNotifikasi.MarkAttendance("M003", true);
+            systemNotifikasi.MarkAttendance("M004", false);
+
+            // Mendapatkan ID mahasiswa dari TextBox1
+            string studentId = textBox1.Text;
+
+            // Memeriksa kehadiran mahasiswa dengan ID yang dimasukkan
+            if (systemNotifikasi.GetAttendanceData().ContainsKey(studentId))
+            {
+                bool isPresent = systemNotifikasi.GetAttendanceData()[studentId];
+                string attendanceStatusMsg = systemNotifikasi.GetAttendanceStatus(isPresent);
+
+                // Menampilkan notifikasi pada label2
+                label2.Text = $"Mahasiswa {studentId}: Anda {attendanceStatusMsg} dari kelas hari ini.";
+            }
+            else
+            {
+                label2.Text = "ID mahasiswa tidak ditemukan.";
+            }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }

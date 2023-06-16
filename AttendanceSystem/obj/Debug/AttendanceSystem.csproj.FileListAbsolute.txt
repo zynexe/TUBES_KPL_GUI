@@ -10,3 +10,4 @@ C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube 
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.exe
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Form2.resources
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tube last asli\TUBES_KPL_GUI\AttendanceSystem\obj\Debug\AttendanceSystem.Form3.resources
